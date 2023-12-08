@@ -1,8 +1,6 @@
 #/usr/bin/python3
-# Autor: Walter Jesus Villanueva Nuñez
-# Licencia: Senatina
+# Autor: Walter  Villanueva 
 # Año: 2023
-# Profesor: Albert Erick Jickson Chavez Zaquinaula
 import sys,os
 import signal, time
 import re
