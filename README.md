@@ -28,8 +28,14 @@ Adicionalmente nos preguntara si deseamos seguir ingresando registros.
 
 ![image](https://github.com/Secwj/Agenda-de-Contactos/assets/134982179/a8e6750c-c969-4de9-8ff1-cce1b545750e)
 
-En caso el fichero no existe creara uno con el nombre que se le indique. Posteriormente permitara ingresar el contenido.
+En caso el fichero no existe creara uno con el nombre que se le indique. Posteriormente permitirá ingresar el contenido.
+
 ![image](https://github.com/Secwj/Agenda-de-Contactos/assets/134982179/1d507eca-95ef-4010-9781-782a2f643821)
+
+Valida que los registros ingresados sean correctos.
+
+![image](https://github.com/Secwj/Agenda-de-Contactos/assets/134982179/de157d6b-8d16-41ea-ba0a-648ba5e7671e)
+
 
 ### Opción Listar los Registros:
 
@@ -39,8 +45,18 @@ Esta opción permite listar el contenido de un fichero en formato de tabla.
 
 
 También verifica que el archivo existe y sea ".txt".
+
 ![image](https://github.com/Secwj/Agenda-de-Contactos/assets/134982179/d80c1809-1d61-4058-aab2-eef3161cac36)
+
 
 ![image](https://github.com/Secwj/Agenda-de-Contactos/assets/134982179/786b916b-9606-4617-83d3-9cc729b1faaa)
 
+
+### Opcion Modificar un registro.
+
+Podemos buscar por un campo en específico para modificar un registro. En caso lo encuentre nos pedirá los nuevos datos de cada campo del registro buscado.
+
+![image](https://github.com/Secwj/Agenda-de-Contactos/assets/134982179/71e26b46-c392-4b5b-b369-10ea2c781b3a)
+
+![image](https://github.com/Secwj/Agenda-de-Contactos/assets/134982179/f146d745-5cb8-49ed-9f77-c9d7b1dfba9c)
 
